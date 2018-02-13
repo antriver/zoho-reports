@@ -1,0 +1,10 @@
+{
+    "name": "antriver/zoho-reports",
+    "description": "Zoho Reports PHP Client Library",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "ZohoReports": "src/"
+        }
+    }
+}
