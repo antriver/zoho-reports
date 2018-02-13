@@ -4,6 +4,8 @@
 // The only modification is this namespace:
 namespace ZohoReports;
 
+use Exception;
+
 	/**
 		* ReportClient provides the php based language binding to the https based api of ZohoReports.
 	*/
