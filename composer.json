@@ -1,6 +1,6 @@
 {
     "name": "antriver/zoho-reports",
-    "description": "Zoho Reports PHP Client Library",
+    "description": "Mirror of Zoho Reports PHP Library (https://www.zoho.com/reports/api/#php-library)",
     "require": {},
     "autoload": {
         "psr-0": {
