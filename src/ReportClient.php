@@ -1,7 +1,7 @@
 <?php
 
 // This file is downloaded from https://www.zoho.com/reports/api/#php-library
-// The only modification is the namespace import.
+// The only modification is the namespace and import.
 namespace ZohoReports;
 use Exception;
 
