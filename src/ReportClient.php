@@ -1,5 +1,10 @@
 <?php
 
+// This file is downloaded from https://www.zoho.com/reports/api/#php-library
+// The only modification is the namespace import.
+namespace ZohoReports;
+use Exception;
+
 	/**
 		* ReportClient provides the php based language binding to the https based api of ZohoReports.
 	*/
